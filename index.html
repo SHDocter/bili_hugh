@@ -29,7 +29,7 @@
             y: e.clientY - 5,
             scale: 1,
             alpha: 1,
-            color: c()
+            color: "rgb(255,118,183)"
         }),
 		
         t.body.appendChild(a)
@@ -67,7 +67,7 @@
     }
            return false;
 } //判断是否是移动端
-if(!isMobile()){
+               if(!isMobile()){
 	        L2Dwidget.init({
 	            "model": {
 	                // 可以更换不同的人物模型jsonPath
@@ -446,7 +446,6 @@ function zeroPadding(num, digit) {
 		border-radius: 50%;
 		animation: rotate 10s infinite linear;
 	}	
-	.box a1{ href="" onclick="window.open('https://live.bilibili.com/21504340')"}
 	@keyframes rotate{
 		100%{transform: rotate(360deg)}
 	}
