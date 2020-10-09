@@ -16,5 +16,6 @@ heart特效@自由骑士笃志<br>
 2020.10.10 add：copyright<br>
 2020.10.10 add：项目所有被移除的代码将会备份至delete.html<br>
 2020.10.10 delete：线条特效<br>
-2020.10.10 add：看板娘 鼠标点击heart特效 <br>
+2020.10.10 add：看板娘<br>
+2020.10.10 add：鼠标点击heart特效 <br>
 2020.8.14 新建.html<br>
