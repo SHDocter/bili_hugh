@@ -4,6 +4,7 @@
 <meta charset="utf-8">
 <link rel="icon" type="image/x-icon" href="2.gif" /><link rel="shortcut icon" href="2.gif" type="image/x-icon">
 <title>风间流苏</title>
+	<meta name="viewport" content="width=device-width,initial-scale=1.0,user-scalable=0">
 </head>
 <script>
 !function(e, t, a) {
@@ -58,6 +59,15 @@
 </script><!--heart-->
 <script src="https://eqcn.ajz.miesnfu.com/wp-content/plugins/wp-3d-pony/live2dw/lib/L2Dwidget.min.js"></script><!--看板娘-->
 	    <script>
+	    function isMobile(){
+           let info = navigator.userAgent;
+           let agents = ["Android", "iPhone", "SymbianOS", "Windows Phone", "iPod", "iPad"];
+           for(let i = 0; i < agents.length; i++){
+           if(info.indexOf(agents[i]) >= 0) return true;
+    }
+           return false;
+} //判断是否是移动端
+if(!isMobile()){
 	        L2Dwidget.init({
 	            "model": {
 	                // 可以更换不同的人物模型jsonPath
@@ -74,12 +84,16 @@
 	            "mobile": {
 	                "show": true,
 	                "scale": 0.5
-	            },
+	            },//如果是移动端，取消看板娘
+				"name": {
+					"div": 'e'
+				},
 	            "react": {
 	                "opacityDefault": 1,
 	                "opacityOnHover": 0.2
 	            }
 	        });
+	        }
 	    </script><!--看板娘-->
 <style>
 html, body {
