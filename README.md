@@ -12,6 +12,7 @@ heart特效@自由骑士笃志<br>
 
 更新日志<br>
 ```
+2020.10.11 add：error.html新增更新日志跳转
 2020.10.11 modify：index看板娘改为wanko  error看板娘改为z16 微调了z16的位置
 2020.10.11 modify：error.html标题改为帮助文档
 2020.10.11 modify：a.html改名error.html
