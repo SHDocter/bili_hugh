@@ -11,7 +11,6 @@ heart特效@自由骑士笃志<br>
 移动端判断@自由骑士笃志<br>
 
 更新日志<br>
-```
 2020.10.10 Modify：heart颜色随机值改为rgb（255,118,183）
 2020.10.10 delete：原449行 .box a1{ href="" onclick="window.open('https://live.bilibili.com/21504340')"}
 2020.10.10 add：移动端判断，如果是移动端则隐藏看板娘【移动端并没有合适的布局和位置去显示看板娘】<br>
