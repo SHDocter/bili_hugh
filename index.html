@@ -7,7 +7,7 @@
 	<meta name="viewport" content="width=device-width,initial-scale=1.0,user-scalable=0">
 </head>
 <script>
-!function(e, t, a) {
+   !function(e, t, a) {
     function r() {
         for (var e = 0; e < s.length; e++) s[e].alpha <= 0 ? (t.body.removeChild(s[e].el), s.splice(e, 1)) : (s[e].y--, s[e].scale += .004, s[e].alpha -= .013, s[e].el.style.cssText = "left:" + s[e].x + "px;top:" + s[e].y + "px;opacity:" + s[e].alpha + ";transform:scale(" + s[e].scale + "," + s[e].scale + ") rotate(45deg);background:" + s[e].color + ";z-index:99999");
         requestAnimationFrame(r)
@@ -67,7 +67,7 @@
     }
            return false;
 } //判断是否是移动端
-               if(!isMobile()){
+               if(!isMobile()){                                       //如果是移动端，取消看板娘
 	        L2Dwidget.init({
 	            "model": {
 	                // 可以更换不同的人物模型jsonPath
@@ -84,7 +84,7 @@
 	            "mobile": {
 	                "show": true,
 	                "scale": 0.5
-	            },//如果是移动端，取消看板娘
+	            },
 				"name": {
 					"div": 'e'
 				},
