@@ -12,6 +12,7 @@ heart特效@自由骑士笃志<br>
 
 更新日志<br>
 ```
+2020.10.11 modify：error.html标题改为帮助文档
 2020.10.11 modify：a.html改名error.html
 2020.10.11 add：a.html新增看板娘 新增heart特效
 2020.10.11 modify：没有意义的小改动【代码层面拯救了一下强迫症 但还是老问题】
