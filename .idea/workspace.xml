@@ -6,6 +6,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f81475a5-6361-4b5c-8eb4-495d9ec00019" name="默认的" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -53,7 +56,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602588024719</updated>
-      <workItem from="1602588025968" duration="2117000" />
+      <workItem from="1602588025968" duration="2560000" />
     </task>
     <servers />
   </component>
@@ -126,18 +129,18 @@
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
     <state x="781" y="349" key="SettingsEditor/0.0.2560.1410/2560.531.1440.870/-1920.349.1920.1050@0.0.2560.1410" timestamp="1602590662263" />
-    <state x="872" y="437" key="Vcs.Push.Dialog.v2" timestamp="1602590158979">
+    <state x="872" y="437" key="Vcs.Push.Dialog.v2" timestamp="1602590672387">
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
-    <state x="872" y="437" key="Vcs.Push.Dialog.v2/0.0.2560.1410/2560.531.1440.870/-1920.349.1920.1050@0.0.2560.1410" timestamp="1602590158979" />
+    <state x="872" y="437" key="Vcs.Push.Dialog.v2/0.0.2560.1410/2560.531.1440.870/-1920.349.1920.1050@0.0.2560.1410" timestamp="1602590672387" />
     <state x="773" y="486" key="ftp.server.browser" timestamp="1602589994202">
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
     <state x="773" y="486" key="ftp.server.browser/0.0.2560.1410/2560.531.1440.870/-1920.349.1920.1050@0.0.2560.1410" timestamp="1602589994202" />
-    <state x="1078" y="604" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1602590352608">
+    <state x="1078" y="604" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1602590719493">
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
-    <state x="1078" y="604" key="git4idea.remote.GitConfigureRemotesDialog/0.0.2560.1410/2560.531.1440.870/-1920.349.1920.1050@0.0.2560.1410" timestamp="1602590352608" />
+    <state x="1078" y="604" key="git4idea.remote.GitConfigureRemotesDialog/0.0.2560.1410/2560.531.1440.870/-1920.349.1920.1050@0.0.2560.1410" timestamp="1602590719493" />
     <state x="943" y="317" width="672" height="678" key="search.everywhere.popup" timestamp="1602589584760">
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
