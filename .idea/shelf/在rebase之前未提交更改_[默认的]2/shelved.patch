@@ -1,0 +1,116 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"BranchesTreeState\">\r\n    <expand />\r\n    <select />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"f81475a5-6361-4b5c-8eb4-495d9ec00019\" name=\"默认的\" comment=\"\">\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/deployment.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/webServers.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/README.md\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/README.md\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/index.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/index.html\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"PUSH_TAGS\">\r\n      <GitPushTagMode>\r\n        <option name=\"argument\" value=\"--tags\" />\r\n        <option name=\"title\" value=\"All\" />\r\n      </GitPushTagMode>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"HighlightingSettingsPerFile\">\r\n    <setting file=\"file://$PROJECT_DIR$/index.html\" root0=\"SKIP_INSPECTION\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"1ioy1W4Ok354T1zVCIHr2j33RJ1\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"ChangesTree.GroupingKeys\" value=\"\" />\r\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\r\n    <property name=\"WebServerToolWindowFactoryState\" value=\"true\" />\r\n    <property name=\"WebServerToolWindowPanel.toolwindow.highlight.mappings\" value=\"true\" />\r\n    <property name=\"WebServerToolWindowPanel.toolwindow.highlight.symlinks\" value=\"true\" />\r\n    <property name=\"WebServerToolWindowPanel.toolwindow.show.date\" value=\"false\" />\r\n    <property name=\"WebServerToolWindowPanel.toolwindow.show.permissions\" value=\"false\" />\r\n    <property name=\"WebServerToolWindowPanel.toolwindow.show.size\" value=\"false\" />\r\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$\" />\r\n    <property name=\"nodejs_package_manager_path\" value=\"npm\" />\r\n    <property name=\"settings.editor.selected.configurable\" value=\"org.jetbrains.plugins.github.ui.GithubSettingsConfigurable\" />\r\n    <property name=\"vue.rearranger.settings.migration\" value=\"true\" />\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"f81475a5-6361-4b5c-8eb4-495d9ec00019\" name=\"默认的\" comment=\"\" />\r\n      <created>1602588024719</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1602588024719</updated>\r\n      <workItem from=\"1602588025968\" duration=\"2560000\" />\r\n    </task>\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"1\">\r\n          <value>\r\n            <State>\r\n              <option name=\"SHOW_ONLY_AFFECTED_CHANGES\" value=\"true\" />\r\n              <option name=\"FILTERS\">\r\n                <map>\r\n                  <entry key=\"branch\">\r\n                    <value>\r\n                      <list>\r\n                        <option value=\"HEAD\" />\r\n                      </list>\r\n                    </value>\r\n                  </entry>\r\n                  <entry key=\"roots\">\r\n                    <value>\r\n                      <list>\r\n                        <option value=\"$PROJECT_DIR$\" />\r\n                      </list>\r\n                    </value>\r\n                  </entry>\r\n                </map>\r\n              </option>\r\n            </State>\r\n          </value>\r\n        </entry>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n    <option name=\"OPEN_GENERIC_TABS\">\r\n      <map>\r\n        <entry key=\"1\" value=\"TOOL_WINDOW\" />\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"WindowStateProjectService\">\r\n    <state x=\"1014\" y=\"527\" key=\"#Notifications\" timestamp=\"1602589346432\">\r\n      <screen x=\"0\" y=\"0\" width=\"2560\" height=\"1410\" />\r\n    </state>\r\n    <state x=\"1014\" y=\"527\" key=\"#Notifications/0.0.2560.1410/2560.531.1440.870/-1920.349.1920.1050@0.0.2560.1410\" timestamp=\"1602589346432\" />\r\n    <state x=\"1031\" y=\"380\" key=\"#选项\" timestamp=\"1602589952795\">\r\n      <screen x=\"0\" y=\"0\" width=\"2560\" height=\"1410\" />\r\n    </state>\r\n    <state x=\"1031\" y=\"380\" key=\"#选项/0.0.2560.1410/2560.531.1440.870/-1920.349.1920.1050@0.0.2560.1410\" timestamp=\"1602589952795\" />\r\n    <state x=\"872\" y=\"363\" key=\"#部署\" timestamp=\"1602590025212\">\r\n      <screen x=\"0\" y=\"0\" width=\"2560\" height=\"1410\" />\r\n    </state>\r\n    <state x=\"872\" y=\"363\" key=\"#部署/0.0.2560.1410/2560.531.1440.870/-1920.349.1920.1050@0.0.2560.1410\" timestamp=\"1602590025212\" />\r\n    <state x=\"92\" y=\"92\" width=\"2376\" height=\"1226\" key=\"DiffContextDialog\" timestamp=\"1602589427927\">\r\n      <screen x=\"0\" y=\"0\" width=\"2560\" height=\"1410\" />\r\n    </state>\r\n    <state x=\"92\" y=\"92\" width=\"2376\" height=\"1226\" key=\"DiffContextDialog/0.0.2560.1410/2560.531.1440.870/-1920.349.1920.1050@0.0.2560.1410\" timestamp=\"1602589427927\" />\r\n    <state x=\"1129\" y=\"623\" key=\"Github.CreateGistDialog\" timestamp=\"1602589257066\">\r\n      <screen x=\"0\" y=\"0\" width=\"2560\" height=\"1410\" />\r\n    </state>\r\n    <state x=\"1129\" y=\"623\" key=\"Github.CreateGistDialog/0.0.2560.1410/2560.531.1440.870/-1920.349.1920.1050@0.0.2560.1410\" timestamp=\"1602589257066\" />\r\n    <state x=\"781\" y=\"349\" key=\"SettingsEditor\" timestamp=\"1602590662263\">\r\n      <screen x=\"0\" y=\"0\" width=\"2560\" height=\"1410\" />\r\n    </state>\r\n    <state x=\"781\" y=\"349\" key=\"SettingsEditor/0.0.2560.1410/2560.531.1440.870/-1920.349.1920.1050@0.0.2560.1410\" timestamp=\"1602590662263\" />\r\n    <state x=\"872\" y=\"437\" key=\"Vcs.Push.Dialog.v2\" timestamp=\"1602590672387\">\r\n      <screen x=\"0\" y=\"0\" width=\"2560\" height=\"1410\" />\r\n    </state>\r\n    <state x=\"872\" y=\"437\" key=\"Vcs.Push.Dialog.v2/0.0.2560.1410/2560.531.1440.870/-1920.349.1920.1050@0.0.2560.1410\" timestamp=\"1602590672387\" />\r\n    <state x=\"773\" y=\"486\" key=\"ftp.server.browser\" timestamp=\"1602589994202\">\r\n      <screen x=\"0\" y=\"0\" width=\"2560\" height=\"1410\" />\r\n    </state>\r\n    <state x=\"773\" y=\"486\" key=\"ftp.server.browser/0.0.2560.1410/2560.531.1440.870/-1920.349.1920.1050@0.0.2560.1410\" timestamp=\"1602589994202\" />\r\n    <state x=\"1078\" y=\"604\" key=\"git4idea.remote.GitConfigureRemotesDialog\" timestamp=\"1602590719493\">\r\n      <screen x=\"0\" y=\"0\" width=\"2560\" height=\"1410\" />\r\n    </state>\r\n    <state x=\"1078\" y=\"604\" key=\"git4idea.remote.GitConfigureRemotesDialog/0.0.2560.1410/2560.531.1440.870/-1920.349.1920.1050@0.0.2560.1410\" timestamp=\"1602590719493\" />\r\n    <state x=\"943\" y=\"317\" width=\"672\" height=\"678\" key=\"search.everywhere.popup\" timestamp=\"1602589584760\">\r\n      <screen x=\"0\" y=\"0\" width=\"2560\" height=\"1410\" />\r\n    </state>\r\n    <state x=\"943\" y=\"317\" width=\"672\" height=\"678\" key=\"search.everywhere.popup/0.0.2560.1410/2560.531.1440.870/-1920.349.1920.1050@0.0.2560.1410\" timestamp=\"1602589584760\" />\r\n    <state x=\"1071\" y=\"441\" key=\"webDeployment.PermissionsDialog.Tabs\" timestamp=\"1602589974259\">\r\n      <screen x=\"0\" y=\"0\" width=\"2560\" height=\"1410\" />\r\n    </state>\r\n    <state x=\"1071\" y=\"441\" key=\"webDeployment.PermissionsDialog.Tabs/0.0.2560.1410/2560.531.1440.870/-1920.349.1920.1050@0.0.2560.1410\" timestamp=\"1602589974259\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(revision 4d69dbcce0d52b464e5c8f8c60d9b9f028c7e86a)
++++ .idea/workspace.xml	(date 1602592039211)
+@@ -6,11 +6,7 @@
+   </component>
+   <component name="ChangeListManager">
+     <list default="true" id="f81475a5-6361-4b5c-8eb4-495d9ec00019" name="默认的" comment="">
+-      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -56,8 +52,23 @@
+       <option name="number" value="Default" />
+       <option name="presentableId" value="Default" />
+       <updated>1602588024719</updated>
+-      <workItem from="1602588025968" duration="2560000" />
++      <workItem from="1602588025968" duration="3493000" />
++    </task>
++    <task id="LOCAL-00001" summary="修复了benmo字体的路径">
++      <created>1602591284037</created>
++      <option name="number" value="00001" />
++      <option name="presentableId" value="LOCAL-00001" />
++      <option name="project" value="LOCAL" />
++      <updated>1602591284037</updated>
+     </task>
++    <task id="LOCAL-00002" summary="修复了benmo字体的路径">
++      <created>1602591374327</created>
++      <option name="number" value="00002" />
++      <option name="presentableId" value="LOCAL-00002" />
++      <option name="project" value="LOCAL" />
++      <updated>1602591374327</updated>
++    </task>
++    <option name="localTasksCounter" value="3" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -93,7 +104,19 @@
+         </entry>
+         <entry key="MAIN">
+           <value>
+-            <State />
++            <State>
++              <option name="FILTERS">
++                <map>
++                  <entry key="branch">
++                    <value>
++                      <list>
++                        <option value="origin/main" />
++                      </list>
++                    </value>
++                  </entry>
++                </map>
++              </option>
++            </State>
+           </value>
+         </entry>
+       </map>
+@@ -104,6 +127,11 @@
+       </map>
+     </option>
+   </component>
++  <component name="VcsManagerConfiguration">
++    <MESSAGE value="莫名其妙的文件 大概是webstorm的" />
++    <MESSAGE value="莫名其妙的文件 大概是webstorm的" />
++    <option name="LAST_COMMIT_MESSAGE" value="莫名其妙的文件 大概是webstorm的" />
++  </component>
+   <component name="WindowStateProjectService">
+     <state x="1014" y="527" key="#Notifications" timestamp="1602589346432">
+       <screen x="0" y="0" width="2560" height="1410" />
+@@ -117,10 +145,22 @@
+       <screen x="0" y="0" width="2560" height="1410" />
+     </state>
+     <state x="872" y="363" key="#部署/0.0.2560.1410/2560.531.1440.870/-1920.349.1920.1050@0.0.2560.1410" timestamp="1602590025212" />
++    <state x="979" y="271" key="CommitChangelistDialog2" timestamp="1602591371966">
++      <screen x="0" y="0" width="2560" height="1410" />
++    </state>
++    <state x="979" y="271" key="CommitChangelistDialog2/0.0.2560.1410/2560.531.1440.870/-1920.349.1920.1050@0.0.2560.1410" timestamp="1602591371966" />
+     <state x="92" y="92" width="2376" height="1226" key="DiffContextDialog" timestamp="1602589427927">
+       <screen x="0" y="0" width="2560" height="1410" />
+     </state>
+     <state x="92" y="92" width="2376" height="1226" key="DiffContextDialog/0.0.2560.1410/2560.531.1440.870/-1920.349.1920.1050@0.0.2560.1410" timestamp="1602589427927" />
++    <state x="1060" y="459" key="FileChooserDialogImpl" timestamp="1602591931606">
++      <screen x="0" y="0" width="2560" height="1410" />
++    </state>
++    <state x="1060" y="459" key="FileChooserDialogImpl/0.0.2560.1410/2560.531.1440.870/-1920.349.1920.1050@0.0.2560.1410" timestamp="1602591931606" />
++    <state x="1139" y="604" key="Git.Rebase.Log.Action.NewCommitMessage.Dialog" timestamp="1602592023662">
++      <screen x="0" y="0" width="2560" height="1410" />
++    </state>
++    <state x="1139" y="604" key="Git.Rebase.Log.Action.NewCommitMessage.Dialog/0.0.2560.1410/2560.531.1440.870/-1920.349.1920.1050@0.0.2560.1410" timestamp="1602592023662" />
+     <state x="1129" y="623" key="Github.CreateGistDialog" timestamp="1602589257066">
+       <screen x="0" y="0" width="2560" height="1410" />
+     </state>
+@@ -129,10 +169,10 @@
+       <screen x="0" y="0" width="2560" height="1410" />
+     </state>
+     <state x="781" y="349" key="SettingsEditor/0.0.2560.1410/2560.531.1440.870/-1920.349.1920.1050@0.0.2560.1410" timestamp="1602590662263" />
+-    <state x="872" y="437" key="Vcs.Push.Dialog.v2" timestamp="1602590672387">
++    <state x="872" y="437" key="Vcs.Push.Dialog.v2" timestamp="1602591390633">
+       <screen x="0" y="0" width="2560" height="1410" />
+     </state>
+-    <state x="872" y="437" key="Vcs.Push.Dialog.v2/0.0.2560.1410/2560.531.1440.870/-1920.349.1920.1050@0.0.2560.1410" timestamp="1602590672387" />
++    <state x="872" y="437" key="Vcs.Push.Dialog.v2/0.0.2560.1410/2560.531.1440.870/-1920.349.1920.1050@0.0.2560.1410" timestamp="1602591390633" />
+     <state x="773" y="486" key="ftp.server.browser" timestamp="1602589994202">
+       <screen x="0" y="0" width="2560" height="1410" />
+     </state>
