@@ -10,6 +10,8 @@ bilibili风间流苏歌单<br>
 heart特效@自由骑士笃志<br>
 移动端判断@自由骑士笃志<br>
 
+无视掉.idea文件夹就好 莫名其妙的文件 大概是webstorm的<br>
+
 更新日志<br>
 ```
 2020.10.11 modify：修复了benmo字体的路径
