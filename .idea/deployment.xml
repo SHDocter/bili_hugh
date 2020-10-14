@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="歌单" uploadOnCheckin="fb0e2ff7-518f-4c44-806c-098d3617241e" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="歌单">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/" local="$PROJECT_DIR$" web="http://154.83.12.247" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myUploadOnCheckinName" value="歌单" />
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>

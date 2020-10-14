@@ -10,19 +10,23 @@ bilibili风间流苏歌单<br>
 heart特效@自由骑士笃志<br>
 移动端判断@自由骑士笃志<br>
 
+无视掉.idea文件夹就好 莫名其妙的文件 大概是webstorm的<br>
+
 更新日志<br>
 ```
+2020.10.11 fix：尽最大努力拯救了一下强迫症【卒】
+2020.10.11 fix ：修复了benmo字体的路径
 2020.10.11 add：error和index新增更新日志跳转
-2020.10.11 modify：index看板娘改为wanko  error看板娘改为z16 微调了z16的位置
-2020.10.11 modify：error.html标题改为帮助文档
-2020.10.11 modify：a.html改名error.html
+2020.10.11 fix：index看板娘改为wanko  error看板娘改为z16 微调了z16的位置
+2020.10.11 fix：error.html标题改为帮助文档
+2020.10.11 fix：a.html改名error.html
 2020.10.11 add：a.html新增看板娘 新增heart特效
-2020.10.11 modify：没有意义的小改动【代码层面拯救了一下强迫症 但还是老问题】
-2020.10.10 modify：heart颜色随机值改为rgb（255,118,183）
+2020.10.11 fix：没有意义的小改动【代码层面拯救了一下强迫症 但还是老问题】
+2020.10.10 fix：heart颜色随机值改为rgb（255,118,183）
 2020.10.10 delete：原449行 .box a1{ href="" onclick="window.open('https://live.bilibili.com/21504340')"}
-2020.10.10 modify：从代码层面稍微拯救了一下强迫症【因为linux和win都有在编写 两边格式不统一 尽力了（点头】
+2020.10.10 fix：从代码层面稍微拯救了一下强迫症【因为linux和win都有在编写 两边格式不统一 尽力了（点头】
 2020.10.10 add：移动端判断，如果是移动端则隐藏看板娘【移动端并没有合适的布局和位置去显示看板娘】
-2020.10.10 modify：copyright@→©
+2020.10.10 fix：copyright@→©
 2020.10.10 add：copyright
 2020.10.10 add：项目被移除的代码将会备份至delete.html
 2020.10.10 delete：线条特效
