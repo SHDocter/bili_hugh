@@ -1,8 +1,8 @@
 # bili_hugh
 bilibili风间流苏歌单<br>
-歌单网址：http://hugh.host<br>
-异常文档：http://hugh.host/error.html<br>
-直播间：https://live.bilibili.com/21504340<br>
+[歌单网址](http://hugh.host)
+[异常文档](http://hugh.host/error.html)
+[直播间](https://live.bilibili.com/21504340)<br>
 配色@高橋はるき<br>
 字体库@高橋はるき<br>
 图片特效@甜甜小仙女<br>
@@ -13,6 +13,7 @@ heart特效@自由骑士笃志<br>
 为了减少工作量 部分无关紧要的小改动不会写入更新日志中<br>
 
 更新日志
+- 2021.01.22 有个想法 但是要改的地方太多 不知道啥时候能搞定 也不一定会去做
 - 2020.12.07 更新了提交方式 大概git这边能方便一点了
 - 2020.12.06 最近项目太多 忙不过来 更新暂停一段时间 也会更新 但随缘
 - 2020.10.16 fix：乱七八糟的改动
